@@ -8,6 +8,7 @@
 
 2.运行代码前安装所需库文件
 -requirement.txt
+pip install -r requirements.txt
 
 3.获取到代码后，将在当前目录创建数据集datasets文件夹
 --datasets
