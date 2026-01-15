@@ -1,0 +1,9 @@
+matplotlib==3.10.8
+networkx==3.2.1
+numpy==2.4.1
+opencv_python==4.11.0.86
+opencv_python_headless==4.12.0.88
+Pillow==12.1.0
+remove_bg==0.2.1
+scikit_learn==1.8.0
+tqdm==4.66.6
